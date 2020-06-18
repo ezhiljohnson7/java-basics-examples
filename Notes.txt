@@ -1,0 +1,7 @@
+Keywords -> Reserved words which you CANNOT use for any other purposes.
+
+Package, Classes, methods, keywords, parameters/arguments, variables(Global & Local), datatypes, constants, operators.
+
+Static, non-static
+	Class Reference
+	Object Reference
